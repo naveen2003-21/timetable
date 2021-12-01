@@ -105,5 +105,5 @@ Execute the program
 
 ~~~
 # OUTPUT:
-![github logo](time.PNG)
+![github logo](img.PNG)
 
