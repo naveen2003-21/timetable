@@ -107,7 +107,7 @@ Execute the program
 
 ~~~
 ## OUTPUT:
-![github logo](./table.PNG)
+![github logo](./table.png)
 ## RESULT:
 Thus,a web page is designed using html to display my time table
 
