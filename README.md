@@ -83,6 +83,8 @@ Execute the program
              </tr>
              <tr>
              <th>Friday</th>
+             <th>--</th>
+             <th>--</th>
              <th>19AI301/Jaba Jashpin E.T</th>
              <th>19AI301/Jaba Jashpin E.T</th>
              <th>--</th>
@@ -104,6 +106,9 @@ Execute the program
 
 
 ~~~
-# OUTPUT:
-![github logo](img.PNG)
+## OUTPUT:
+![github logo](table.PNG)
+## RESULT:
+Thus,a web page is designed using html to display my time table
+
 
