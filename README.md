@@ -22,7 +22,8 @@ Execute the program
    </head>
 	
    <body>
-      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
+      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="Silver">
+      <img src="logo.png" width="550" height="120">
          <tr>
             <th colspan="8">TIME TABLE</th>
          </tr>
@@ -104,5 +105,5 @@ Execute the program
 
 ~~~
 # OUTPUT:
-![github logo](timetable.PNG)
+![github logo](time.PNG)
 
